@@ -1,0 +1,1 @@
+update yazar set yazar_adi='Fyodor Dostoyevksi' where yazar_no=2

@@ -1,0 +1,1 @@
+alter table odunc add Gecikme_Cezasi  money

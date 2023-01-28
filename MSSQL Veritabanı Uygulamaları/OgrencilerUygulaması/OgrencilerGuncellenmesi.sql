@@ -1,0 +1,1 @@
+alter table ogrenci add ekleme_tarihi datetime default getdate()

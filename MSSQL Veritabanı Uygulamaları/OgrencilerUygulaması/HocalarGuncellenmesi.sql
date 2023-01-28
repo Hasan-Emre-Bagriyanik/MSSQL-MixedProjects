@@ -1,0 +1,1 @@
+alter table hocalar add ders_sayisi varchar(20), dogum_tarihi date

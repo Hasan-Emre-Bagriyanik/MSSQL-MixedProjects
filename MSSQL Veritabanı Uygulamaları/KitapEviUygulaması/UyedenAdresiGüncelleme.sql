@@ -1,0 +1,1 @@
+alter table uye alter column adresi varchar(80) not null
